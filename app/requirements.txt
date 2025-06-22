@@ -1,0 +1,6 @@
+# requirements.txt (CHANGED - removed sentence-transformers and numpy)
+fastapi
+uvicorn
+pymongo
+python-dotenv
+pydantic
